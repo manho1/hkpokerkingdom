@@ -1,0 +1,8 @@
+body{background-image: url(/img/poker.jpg);background-attachment: fixed;background-size: cover;}
+h2{text-align: center;color: gold;}
+.ha{color: aliceblue;}
+.card {
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
+}
